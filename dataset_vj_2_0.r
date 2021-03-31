@@ -52,7 +52,7 @@ lines(cyl.dc8, col = "green")
 legend("topright", legend = levels(cly.f), text.col=c("red","blue","green"))
 
 
-# install.packages("ggplot2")
+# install.packages("ggplot2", repos='http://cran.us.r-project.org')
 
 library(ggplot2)
 
