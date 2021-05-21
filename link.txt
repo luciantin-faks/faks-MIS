@@ -1,1 +1,1 @@
-https://github.com/luciantin/faks-MIS/blob/main/dz/8-rona-sir.R
+https://github.com/luciantin/faks-MIS/tree/main/dz
